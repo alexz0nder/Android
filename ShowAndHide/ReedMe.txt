@@ -1,0 +1,4 @@
+Here are some files from an Android application that shows and hide a TextView with "Hello World!" text 
+and hide it by pressing the "hide" radio-button and shows it back in case you tapping on the "show" radio-button.
+
+This app made for a course "The complete android oreo developer course" on www.udemy.com.
