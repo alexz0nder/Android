@@ -1,0 +1,3 @@
+To allow it to go to the Internet add next to the AndroidManifest.xml
+ 
+ <uses-permission android:name="android.permission.INTERNET"></uses-permission>
